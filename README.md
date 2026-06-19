@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🔭 I’m currently working on Full-Stack Web Development, Cloud Computing, and DevOps Projects<br><br>👯 I’m looking to collaborate on Open Source Projects, Web Applications, and AI/ML Solutions<br><br>🤝 I’m looking for help with Advanced DevOps, Cloud Architecture, and System Design<br><br>🌱 I’m currently learning AWS, Docker, Kubernetes, CI/CD Pipelines, and Data Engineering<br><br>💬 Ask me about Java, Python, C, SQL, React, Spring Boot, and Cloud Technologies<br><br>⚡ Fun fact: I enjoy turning ideas into real-world software solutions and continuously learning new technologies.
+<br> I’m currently working on Full-Stack Web Development, Cloud Computing, and DevOps Projects<br><br> I’m looking to collaborate on Open Source Projects, Web Applications, and AI/ML Solutions<br><br> I’m looking for help with Advanced DevOps, Cloud Architecture, and System Design<br><br> I’m currently learning AWS, Docker, Kubernetes, CI/CD Pipelines, and Data Engineering<br><br> Ask me about Java, Python, C, SQL, React, Spring Boot, and Cloud Technologies<br><br> Fun fact: I enjoy turning ideas into real-world software solutions and continuously learning new technologies.
 
 
 ## 🌐 Socials:
